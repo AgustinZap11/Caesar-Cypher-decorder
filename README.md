@@ -4,4 +4,5 @@ To execute the script, provide the chain to decrypt to the script as a parameter
 $ bash decrypt-cc.sh "LZW IMAUC TJGOF XGP BMEHK GNWJ LZW DSRQ VGY GX USWKSJ"
 
 Paste the text inside quotes (if it has blanks), "..." as in the example of above.
+The script will return your chain but applying ROT from 1-26, and you need to find the correct sentence in the output.
 
